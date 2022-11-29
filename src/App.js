@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from "./components/header"
+import CountComponent from './components/countComponent';
 
 function App() {
   return (
